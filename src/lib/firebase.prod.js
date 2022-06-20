@@ -6,13 +6,7 @@ import 'firebase/auth';
 // import { seedDatabase } from '../seed';
 
 const config = {
-    apiKey: "AIzaSyChOq8YzAI2_Dl3pB3SKV9d3PsZx3Bk1Pk",
-    authDomain: "netflix-clone-5b740.firebaseapp.com",
-    projectId: "netflix-clone-5b740",
-    storageBucket: "netflix-clone-5b740.appspot.com",
-    messagingSenderId: "489814755604",
-    appId: "1:489814755604:web:6cf84762681b2e09145a01",
-    measurementId: "G-4WJ3SPPT9K"
+    
 };
 
 const firebase = Firebase.initializeApp(config);
